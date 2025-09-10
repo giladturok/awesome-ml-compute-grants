@@ -7,4 +7,4 @@ Grants often require an application, and if selected, awards you with either com
 |Lambda Research Grant | Up to $5,000 Lambda compute credits | Lambda AI | N/A | N/A | https://lambda.ai/research |
 | Modal for Academics | Up to $10,000 Modal compute credits| Modal AI | N/A | Credits valid for one year | https://modal.com/academics |
 | TPU Research Cloud | Access up to 1000+ TPU compute cluster | Google Research | N/A | Publicly share research findings | https://sites.research.google/trc/about/ |
-
+| Nvidia Academic Grant Program | Misc Nvidai resources (cloud, hardware, software, and models) | Nvidia | Full-time faculty member must apply, research must be part of Nvidia's proposal area| N/A | https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/
