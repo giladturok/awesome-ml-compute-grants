@@ -1,6 +1,6 @@
 Awesome list of grants that academics + researchers can use for machine learning research.
 
-Grants often require an application, and if selected, awards you with compute credits or cluster access.
+Grants often require an application, and if selected, awards you with either compute credits or cluster access.
 
 | Grant Name | Grant Award | Sponsoring Institution | Eligibility | Grant Details | Link |
 | -------- | ------- | -------- | -------- | -------- | -------- |
