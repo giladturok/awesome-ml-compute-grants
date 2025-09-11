@@ -1,6 +1,8 @@
-Awesome list of compute grants that academics + researchers can use for machine learning research.
+This is a list of awesome compute grants that academics + researchers can use for machine learning research.
 
-Grants often require an application, and if selected, awards you with either compute credits or cluster access.
+Grants often require an application, and if selected, awards you with either compute credits or cluster access. This list focuses on grants that are a minimum of $1,000 worth of resources.
+
+Pull requests welcome!
 
 | Grant Name | Grant Award | Sponsoring Institution | Eligibility | Grant Details |
 | -------- | ------- | -------- | -------- | -------- |
