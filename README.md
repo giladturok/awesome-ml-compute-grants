@@ -1,4 +1,6 @@
-This is a list of awesome compute grants that academics + researchers can use for machine learning research.
+This is a list of awesome compute grants that academics + researchers can use for machine learning research. 
+
+>Feeding the GPU-poor one mat-mul at a time :times:
 
 A few notes:
 - Grants often require a quick application (larger awards may require a research proposal)
