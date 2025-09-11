@@ -1,6 +1,11 @@
 This is a list of awesome compute grants that academics + researchers can use for machine learning research.
 
-Grants often require an application, and if selected, awards you with either compute credits or cluster access. This list focuses on grants that are a minimum of $1,000 worth of resources. Most grant awards are advertised as "up to $x,xxx", but I write "$x,xxx$" instead.
+A few notes:
+- Grants often require a quick application, but occasionally require a research proposal
+- Grants may have eligibility requirements (e.g. enrolled student, research in a certain area)
+- Grant awards are often in the form of compute credits or cluster access
+- This list focuses on grants that are a minimum of $1,000 worth of resources
+- Most grant awards are technically advertised as "up to $x,xxx", but I write "$x,xxx$" instead since that is typically the amount given
 
 Pull requests welcome!
 
