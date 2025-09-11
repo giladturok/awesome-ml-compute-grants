@@ -2,7 +2,7 @@ This is a list of awesome compute grants that academics + researchers can use fo
 
 A few notes:
 - Grants often require a quick application, but occasionally require a research proposal
-- Grants may have eligibility requirements (e.g. enrolled student, research in a certain area)
+- Grants may have eligibility requirements (e.g. enrolled student, specific research topic)
 - Grant awards are often in the form of compute credits or cluster access
 - This list focuses on grants that are a minimum of $1,000 worth of resources
 - Most grant awards are technically advertised as "up to $x,xxx", but I write "$x,xxx$" instead since that is typically the amount given
