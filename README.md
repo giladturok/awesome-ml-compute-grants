@@ -16,4 +16,4 @@ Pull requests welcome!
 | [Modal for Academics](https://modal.com/academics) | $10,000 Modal compute credits| Modal AI |
 | [TPU Research Cloud](https://sites.research.google/trc/about/) | 1000+ TPU compute cluster | Google Research |
 | [Nvidia Academic Grant Program](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/) | Misc Nvidia resources (cloud, hardware, software, and models) | Nvidia |
-| [Hillclimb Residency](https://www.hillclimb.com/residency) | $5,000 in compute support in exchange for real-time research data | Hillclimb |
+| [Hillclimb Residency](https://www.hillclimb.com/residency) | $5,000 in compute in exchange for real-time research data | Hillclimb |
